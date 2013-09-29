@@ -1,0 +1,54 @@
+{
+    "name": "",
+    "description": "",
+    "version": "0.0.0",
+    "homepage": "",
+    "author": {
+        "name": "",
+        "email": "",
+        "url": ""
+    },
+    "contributors": [
+        {
+            "name": "",
+            "email": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "null"
+    },
+    "scripts": {
+        "test": "grunt test"
+    },
+    "bugs": {
+        "url": "null/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ],
+    "main": "Gruntfile.js",
+    "engines": {
+        "node": "*"
+    },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-qunit": "~0.2.1",
+        "grunt-contrib-watch": "~0.5.3",
+        "grunt-contrib-jshint": "~0.1.0",
+        "grunt-jsvalidate": "~0.2.1",
+        "grunt-jsbeautifier": "0.1.10"
+    },
+    "keywords": []
+}
